@@ -20,7 +20,7 @@ Convertirme en un desarrollador sólido, creando proyectos útiles y mejorando c
 
 ---
 ## 📊 Estadísticas
-![Estadísticas](URL_DE_TU_IMAGEN_DE_ESTADISTICAS)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
 
 📫 **¿Quieres conectar conmigo?**
 * [LinkedIn](enlace_a_tu_perfil)
