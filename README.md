@@ -3,7 +3,8 @@
 ¡Bienvenido a mi perfil de GitHub! Soy estudiante de **Análisis y Desarrollo de Software** en el **SENA**, apasionado por la programación y la creación de soluciones tecnológicas.
 
 
-![Uploading Gemini_Generated_Image_dtx7kndtx7kndtx7.png…]()
+<img width="1792" height="592" alt="Gemini_Generated_Image_dtx7kndtx7kndtx7" src="https://github.com/user-attachments/assets/c48cbe9c-4212-4883-a016-aff24b6f7382" />
+
 
 ---
 
