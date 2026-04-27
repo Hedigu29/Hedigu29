@@ -25,7 +25,7 @@ Convertirme en un desarrollador sólido, creando proyectos útiles y mejorando c
 ---
 ## 📊 Estadísticas
 
-![Estadísticas de hedigu29](https://github-readme-stats.vercel.app/api?username=hedigu29&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedigu29&show_icons=true&theme=radical)
 
 📫 **Contacto**
 
