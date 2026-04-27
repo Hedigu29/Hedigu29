@@ -2,6 +2,9 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy estudiante de **Análisis y Desarrollo de Software** en el **SENA**, apasionado por la programación y la creación de soluciones tecnológicas.
 
+
+![Uploading Gemini_Generated_Image_dtx7kndtx7kndtx7.png…]()
+
 ---
 
 ## 🚀 Sobre mí
