@@ -23,6 +23,6 @@ Convertirme en un desarrollador sólido, creando proyectos útiles y mejorando c
 
 ![Estadísticas de hedigu29](https://github-readme-stats.vercel.app/api?username=hedigu29&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-📫 **¿Quieres conectar conmigo?**
-* [LinkedIn](enlace_a_tu_perfil)
-* Correo: tu-correo@ejemplo.com
+📫 **Contacto**
+
+* Correo: hedigu290803@gmail.com
